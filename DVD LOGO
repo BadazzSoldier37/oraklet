@@ -9,10 +9,10 @@ running = True
 color = 'black'
 
 img = pygame.image.load("/Users/hugohammarstedt/code/oraklet/dvd.png")
-imgX = 8
-imgY = 8
-imgXV = 8
-imgYV = 8
+imgX = 9
+imgY = 9
+imgXV = 9
+imgYV = 9
 
 
 while running:
